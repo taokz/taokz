@@ -1,6 +1,6 @@
 ### 👋 Hi there, I’m Kai !
 
-- 👀 I’m interested in Deep Learning, AGI, AI Security & Privacy, TinyML and Health Informatics.
+- 👀 I’m interested in Deep Learning, Medical AI, Reliable Machine Learning.
 - 🌱 I am a Ph.D. student at Lehigh University, supervised by [Lichao Sun](https://lichao-sun.github.io).
 - 👯 I’m looking to collaborate on anything that cover my interests!
 - 📫 You can reach me at [kaz321@lehigh.edu](kaz321@lehigh.edu)
