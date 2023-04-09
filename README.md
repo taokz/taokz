@@ -5,7 +5,10 @@
 - 👯 I’m looking to collaborate on anything that cover my interests!
 - 📫 You can reach me at [kaz321@lehigh.edu](kaz321@lehigh.edu)
 
+<!---
 [![Paras's github stats](https://github-readme-stats.vercel.app/api?username=taokz&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+--->
+![kai's github stats](https://github-readme-stats.vercel.app/api?username=taokz&show_icons=true&icon_color=fff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)  
 <!---
 ![](https://komarev.com/ghpvc/?username=taokz&color=blue)
 --->
